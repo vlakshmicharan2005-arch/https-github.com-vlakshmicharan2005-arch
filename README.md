@@ -73,6 +73,6 @@ Some of the projects I have worked on:
 
 To become a skilled **Full Stack Web Developer** and contribute to impactful real-world projects.
 
----
+--
 
 ⭐ If you like my work, don’t forget to **star** the repositories!
