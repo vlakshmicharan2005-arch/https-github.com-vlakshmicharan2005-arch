@@ -67,7 +67,7 @@ Some of the projects I have worked on:
 - 📧 Email: your.email@example.com  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 
----
+----
 
 ## 🎯 Goal
 
